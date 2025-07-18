@@ -1,0 +1,6 @@
+npx @modelcontextprotocol/inspector \
+-e JIRA_CONFIG_AUTH_ACCESS_TOKEN=ATATT3xFfGF0JxB3Ys2_xo-38O9WioC57_sFUzphjHCHczqeGDMlPwFj8fNRcQGzM2IojawOkCzkbjvkq4H4YKr53FUGcMgVLeB2kCxwy1vt5dMX5rL2x9WSa-YyDly7hmHuslo5Ph8zGbhdVgeoIb7j_9NY8q6jOSsbv4IexUckAZV1nwx8B08=6594A531
+-e JIRA_CONFIG_AUTH_USERNAME=e-h.waeil@lean.sa
+-e JIRA_CONFIG_API_VERSION=3
+-e JIRA_CONFIG_BASE_URL=https://leansa.atlassian.net
+npm start
