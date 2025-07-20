@@ -11,7 +11,7 @@ const definition = {
    
 const handler = async (args: any): Promise<CallToolResult> => {
 
-  var res = await Project.getTeam(args);
+  var res = await Project.getTeam(args.projectKey);
     return {
         content: [{
             type: 'text',
